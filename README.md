@@ -1,6 +1,9 @@
 # CannonDuel
 CannonDuel is a 2-player terminal game.
 
+## Demo:
+https://github.com/SamuelHarner/cannonduel-terminal-game/assets/58339914/2de5746c-7b6d-43a0-a386-7226740e005b
+
 ## Game design:
 - Game field char matrix with dimension 20x60
 - Game field with walls represented by '#'
